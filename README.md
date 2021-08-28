@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 # Movies App
-![movies](src\ss.png)
+![movies](src/ss.png)
  
 
 [![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
